@@ -45,7 +45,9 @@ API FastAPI
 
 ```
 
-seminar_qualifier_agent/
+
+Projet-Agent-IA-de-Qualification-de-S-minaires
+/
 │
 ├── app/
 │   ├── main.py
@@ -238,3 +240,4 @@ MIT
 ---
 
 ```
+
